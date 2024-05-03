@@ -1,1 +1,1 @@
-# 24001083-km6-nes-Redux-ch6
+Challenge 6 - Nesvia Nissa Artanti - UPN "veteran" Jawa Timur Prodi Sistem Informasi - Redux. BINAR FEJS

@@ -1,0 +1,34 @@
+.carousel {
+  width: 100%;
+  height: 592px; /* Sesuaikan dengan kebutuhan */
+  overflow: hidden;
+  position: relative;
+  z-index: -1;
+}
+
+.carousel-slide {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+}
+
+.show {
+  display: block;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.text-shadow-black {
+  text-shadow: 5px 5px 5px black; /* Ubah ukuran dan warna sesuai kebutuhan Anda */
+}
+
+.login-button {
+  width: 500px;
+}
